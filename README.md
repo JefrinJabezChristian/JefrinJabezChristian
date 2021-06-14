@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JefrinJabezChristian
 - 👀 I’m interested in music, coding, writing and creating new stuff
-- 🌱 I’m currently learning to shut up about myself :)
+- 🌱 I’m currently learning to shut up about myself ;)
 
 
 <!---
